@@ -12,3 +12,10 @@ To try it out in a new development environment, click the button below:
 
 * [Blog: Personalize your Gitpod Workspace Environments](https://www.gitpod.io/blog/personalize-your-gitpod-workspace-environment)
 * [Docs: Config-dotfiles](https://www.gitpod.io/docs/config-dotfiles)
+
+## Examples
+
+Here are some example `dotfiles` which you can look at to get the more understanding about dotfiles.
+
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [holman/dotfiles](https://github.com/holman/dotfiles)
