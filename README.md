@@ -13,7 +13,7 @@ To try it out in a new development environment, click the button below:
 - It has a `./setup.sh` file that contains the initial setup script to execute all the scripts to install/ configure required services under `./scripts/`.
     - `./scripts/gpg_configure.sh` is script to configure [GPG](https://www.gnupg.org/) key for your next Gitpod Workspaces.
     - `./scripts/terraform_configure.sh` is script to setup & configure [Terraform](https://www.terraform.io/) for your next Gitpod Workspaces.
-    - `./scripts/aws_cli_install.sh` to install [https://aws.amazon.com/cli/](AWS-CLI)
+    - `./scripts/aws_cli_install.sh` to install [AWS CLI](https://aws.amazon.com/cli/)
     - `./scripts/deno_configure.sh` to install & configure [deno](https://deno.land/) for your next Gitpod Workspaces.
     - `./scripts/gcloud_cli_install.sh` to install [Google Cloud CLI](https://cloud.google.com/sdk/docs/install-sdk) for your next Gitpod Workspaces.
 
