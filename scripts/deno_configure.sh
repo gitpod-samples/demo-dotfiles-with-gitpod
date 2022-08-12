@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# Install & Configure Deno
+# Install deno
 curl -fsSL https://deno.land/x/install/install.sh | sh
 
+# Configure deno
 target="$HOME/.deno";
 
 echo 'export \n' "DENO_INSTALL=$target"\
