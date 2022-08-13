@@ -18,6 +18,9 @@ Ever wondered how you can bring your personal dotfiles configurations to [Gitpod
 - Add your `dotfiles` repository to [Gitpod Dashboard Preferences](https://gitpod.io/preferences)
 - Now, everytime you will start a new workspace or just Restart your Gitpod Workspace, you will get your lovely dotfiles customisation setup.
 
+> **Note**: Your installation script will be terminated if it exceeds 120 seconds.
+
+
 
 ## Modify it according to your personal requirements
 
